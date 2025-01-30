@@ -1,21 +1,21 @@
 {
     "videos": [
         {
-            "video_path": "videos/testing.mp4",
+            "video_path": "/content/datasets/testing.mp4",
             "location": {
                 "latitude": 28.6139,
                 "longitude": 77.2090
             }
         },
         {
-            "video_path": "videos/testing2.mp4",
+            "video_path": "/content/datasets/testing2.mp4",
             "location": {
                 "latitude": 28.6145,
                 "longitude": 77.2105
             }
         },
         {
-            "video_path": "videos/cr_O0iKAxWb.mp4",
+            "video_path": "/content/datasets/cr_O0iKAxWb.mp4",
             "location": {
                 "latitude": 28.6150,
                 "longitude": 77.2110
