@@ -1,0 +1,736 @@
+{
+  "locations": [
+    {
+      "name": "Connaught Place Police Station",
+      "type": "police_station",
+      "latitude": 28.6328,
+      "longitude": 77.2197,
+      "contact": {
+        "country_code": "+91",
+        "number": "1123411234"
+      }
+    },
+    {
+      "name": "Hauz Khas Police Station",
+      "type": "police_station",
+      "latitude": 28.5535,
+      "longitude": 77.1900,
+      "contact": {
+        "country_code": "+91",
+        "number": "1126561234"
+      }
+    },
+    {
+      "name": "Mukherjee Nagar Police Station",
+      "type": "police_station",
+      "latitude": 28.70003,
+      "longitude": 77.20882,
+      "contact": {
+        "country_code": "+91",
+        "number": "1123411234"
+      }
+    },
+    {
+      "name": "Karol Bagh Police Station",
+      "type": "police_station",
+      "latitude": 28.6524,
+      "longitude": 77.19303,
+      "contact": {
+        "country_code": "+91",
+        "number": "1125786639"
+      }
+    },
+    {
+      "name": "Chandni Mahal Police Station",
+      "type": "police_station",
+      "latitude": 28.641047,
+      "longitude": 77.236285,
+      "contact": {
+        "country_code": "+91",
+        "number": "1123271751"
+      }
+    },
+    {
+      "name": "Daryaganj Police Station",
+      "type": "police_station",
+      "latitude": 28.6480,
+      "longitude": 77.2432,
+      "contact": {
+        "country_code": "+91",
+        "number": "1123274683"
+      }
+    },
+      {
+          "name": "Kamla Market Police Station",
+          "type": "police_station",
+          "latitude": 28.6353,
+          "longitude": 77.2222,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-23233743"
+          }
+        },
+        {
+          "name": "Pahar Ganj Police Station",
+          "type": "police_station",
+          "latitude": 28.6350,
+          "longitude": 77.2170,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-23524746"
+          }
+        },
+        {
+          "name": "Kalyanpuri Police Station",
+          "type": "police_station",
+          "latitude": 28.6105,
+          "longitude": 77.2830,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-22472251"
+          }
+        },
+        {
+          "name": "Gandhi Nagar Police Station",
+          "type": "police_station",
+          "latitude": 28.6401,
+          "longitude": 77.2973,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-22212761"
+          }
+        },
+        {
+          "name": "Anand Vihar Police Station",
+          "type": "police_station",
+          "latitude": 28.6550,
+          "longitude": 77.2903,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-22159871"
+          }
+        },
+        {
+          "name": "Geeta Colony Police Station",
+          "type": "police_station",
+          "latitude": 28.6420,
+          "longitude": 77.2786,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-22208164"
+          }
+        },
+        {
+          "name": "Shaker Pur Police Station",
+          "type": "police_station",
+          "latitude": 28.6243,
+          "longitude": 77.3064,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-22242441"
+          }
+        },
+        {
+          "name": "Sansad Marg Police Station",
+          "type": "police_station",
+          "latitude": 28.6139,
+          "longitude": 77.2195,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-23361100"
+          }
+        },
+        {
+          "name": "Civil Lines Police Station",
+          "type": "police_station",
+          "latitude": 28.6639,
+          "longitude": 77.2080,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-22930633"
+          }
+        },
+        {
+          "name": "Timarpur Police Station",
+          "type": "police_station",
+          "latitude": 28.6992,
+          "longitude": 77.2489,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-22914421"
+          }
+        },
+        {
+          "name": "Roop Nagar Police Station",
+          "type": "police_station",
+          "latitude": 28.6819,
+          "longitude": 77.2125,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-22914632"
+          }
+        },
+        {
+          "name": "Mandir Marg Police Station",
+          "type": "police_station",
+          "latitude": 28.6112,
+          "longitude": 77.2268,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-23366730"
+          }
+        },
+        {
+          "name": "Tughlaq Road Police Station",
+          "type": "police_station",
+          "latitude": 28.6176,
+          "longitude": 77.2291,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-23014878"
+          }
+        },
+        {
+          "name": "Tilak Marg Police Station",
+          "type": "police_station",
+          "latitude": 28.6187,
+          "longitude": 77.2290,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-23382100"
+          }
+        },
+        {
+          "name": "Kashmiri Gate Police Station",
+          "type": "police_station",
+          "latitude": 28.6531,
+          "longitude": 77.2374,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-23968730"
+          }
+        },
+        {
+          "name": "Chandni Chowk Police Station",
+          "type": "police_station",
+          "latitude": 28.6541,
+          "longitude": 77.2321,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-23953442"
+          }
+        },
+        {
+          "name": "Shahdara Police Station",
+          "type": "police_station",
+          "latitude": 28.6673,
+          "longitude": 77.2733,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-22284212"
+          }
+        },
+        {
+          "name": "Welcome Colony Police Station",
+          "type": "police_station",
+          "latitude": 28.6812,
+          "longitude": 77.2906,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-22280746"
+          }
+        },
+        {
+          "name": "Mansarovar Park Police Station",
+          "type": "police_station",
+          "latitude": 28.6999,
+          "longitude": 77.2821,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-22280946"
+          }
+        },
+        {
+          "name": "Seema Puri Police Station",
+          "type": "police_station",
+          "latitude": 28.6991,
+          "longitude": 77.2723,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-22281978"
+          }
+        },
+        {
+          "name": "Nand Nagari Police Station",
+          "type": "police_station",
+          "latitude": 28.6905,
+          "longitude": 77.2701,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-22283307"
+          }
+        },
+        {
+          "name": "Narela Police Station",
+          "type": "police_station",
+          "latitude": 28.7393,
+          "longitude": 77.2323,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-27280904"
+          }
+        },
+        {
+          "name": "Shalimar Bagh Police Station",
+          "type": "police_station",
+          "latitude": 28.7073,
+          "longitude": 77.2296,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-27497179"
+          }
+        },
+        {
+          "name": "Jahangir Puri Police Station",
+          "type": "police_station",
+          "latitude": 28.7111,
+          "longitude": 77.2154,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-27215641"
+          }
+        },
+        {
+          "name": "Rohini Police Station",
+          "type": "police_station",
+          "latitude": 28.6877,
+          "longitude": 77.2841,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-27045035"
+          }
+        },
+        {
+          "name": "Ashok Vihar Police Station",
+          "type": "police_station",
+          "latitude": 28.6992,
+          "longitude": 77.2069,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-27242917"
+          }
+        },
+        {
+          "name": "Kotla Mubarak Pur Police Station",
+          "type": "police_station",
+          "latitude": 28.5829,
+          "longitude": 77.2406,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-24624825"
+          }
+        },
+        {
+          "name": "Lajpat Nagar Police Station",
+          "type": "police_station",
+          "latitude": 28.5749,
+          "longitude": 77.2391,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-26912456"
+          }
+        },
+        {
+          "name": "Sri Nivas Puri Police Station",
+          "type": "police_station",
+          "latitude": 28.5447,
+          "longitude": 77.2593,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-23830750"
+          }
+        },
+        {
+          "name": "Greater Kailash Police Station",
+          "type": "police_station",
+          "latitude": 28.5612,
+          "longitude": 77.2342,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-26415815"
+          }
+        },
+        {
+          "name": "Chittaranjan Park Police Station",
+          "type": "police_station",
+          "latitude": 28.5513,
+          "longitude": 77.2434,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-26461597"
+          }
+        },
+        {
+          "name": "Vasant Vihar Police Station",
+          "type": "police_station",
+          "latitude": 28.5443,
+          "longitude": 77.1698,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-26152577"
+          }
+        },
+        {
+          "name": "Sarojini Nagar Police Station",
+          "type": "police_station",
+          "latitude": 28.5710,
+          "longitude": 77.2113,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-26882346"
+          }
+        },
+        {
+          "name": "R.K. Puram Police Station",
+          "type": "police_station",
+          "latitude": 28.5611,
+          "longitude": 77.1695,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-26165222"
+          }
+        },
+        {
+          "name": "Vasant Kunj Police Station",
+          "type": "police_station",
+          "latitude": 28.5485,
+          "longitude": 77.1614,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-26892530"
+          }
+        },
+        {
+          "name": "Naraina Police Station",
+          "type": "police_station",
+          "latitude": 28.6252,
+          "longitude": 77.1264,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-25792021"
+          }
+        },
+        {
+          "name": "Punjabi Bagh Police Station",
+          "type": "police_station",
+          "latitude": 28.6500,
+          "longitude": 77.1403,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-25435616"
+          }
+        },
+        {
+          "name": "Paschim Vihar Police Station",
+          "type": "police_station",
+          "latitude": 28.6356,
+          "longitude": 77.0709,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-25583471"
+          }
+        },
+        {
+          "name": "Nangloi Police Station",
+          "type": "police_station",
+          "latitude": 28.7034,
+          "longitude": 77.0700,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-25471470"
+          }
+        },
+        {
+          "name": "Rajouri Garden Police Station",
+          "type": "police_station",
+          "latitude": 28.6228,
+          "longitude": 77.1030,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-25448885"
+          }
+        },
+        {
+          "name": "Hari Nagar Police Station",
+          "type": "police_station",
+          "latitude": 28.6139,
+          "longitude": 77.1071,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-25408782"
+          }
+        },
+
+        {
+          "name": "AIIMS Hospital",
+          "type": "hospital",
+          "latitude": 28.5541,
+          "longitude": 77.1925,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-26588500"
+          }
+        },
+        {
+          "name": "Max Super Speciality Hospital",
+          "type": "hospital",
+          "latitude": 28.5501,
+          "longitude": 77.2289,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-26531280"
+          }
+        },
+        {
+          "name": "Fortis Escorts Heart Institute",
+          "type": "hospital",
+          "latitude": 28.5930,
+          "longitude": 77.2434,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-41922323"
+          }
+        },
+        {
+          "name": "Indraprastha Apollo Hospital",
+          "type": "hospital",
+          "latitude": 28.6183,
+          "longitude": 77.2679,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-41786000"
+          }
+        },
+        {
+          "name": "BLK Super Speciality Hospital",
+          "type": "hospital",
+          "latitude": 28.6357,
+          "longitude": 77.2020,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-30403040"
+          }
+        },
+        {
+          "name": "Max Healthcare Saket",
+          "type": "hospital",
+          "latitude": 28.5306,
+          "longitude": 77.2111,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-40554055"
+          }
+        },
+        {
+          "name": "Medanta - The Medicity",
+          "type": "hospital",
+          "latitude": 28.4387,
+          "longitude": 77.0742,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "124-4141414"
+          }
+        },
+        {
+          "name": "Sahara Hospital",
+          "type": "hospital",
+          "latitude": 28.6142,
+          "longitude": 77.1741,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-41516834"
+          }
+        },
+        {
+          "name": "Fortis La Femme Hospital",
+          "type": "hospital",
+          "latitude": 28.5922,
+          "longitude": 77.2001,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-42556666"
+          }
+        },
+        {
+          "name": "Primus Super Speciality Hospital",
+          "type": "hospital",
+          "latitude": 28.5550,
+          "longitude": 77.1830,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-42325000"
+          }
+        },
+        {
+          "name": "Artemis Hospital",
+          "type": "hospital",
+          "latitude": 28.4593,
+          "longitude": 77.0831,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "124-4511000"
+          }
+        },
+        {
+          "name": "Venkateshwar Hospital",
+          "type": "hospital",
+          "latitude": 28.5884,
+          "longitude": 77.2772,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-47211111"
+          }
+        },
+        {
+          "name": "Kailash Hospital",
+          "type": "hospital",
+          "latitude": 28.5162,
+          "longitude": 77.2893,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-29129999"
+          }
+        },
+        {
+          "name": "Dharamshila Narayana Super Speciality Hospital",
+          "type": "hospital",
+          "latitude": 28.6356,
+          "longitude": 77.2229,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-39977777"
+          }
+        },
+        {
+          "name": "Fortis Vasant Kunj Hospital",
+          "type": "hospital",
+          "latitude": 28.5448,
+          "longitude": 77.1556,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-47024400"
+          }
+        },
+        {
+          "name": "Max Smart Super Speciality Hospital",
+          "type": "hospital",
+          "latitude": 28.6061,
+          "longitude": 77.1883,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-26513132"
+          }
+        },
+        {
+          "name": "The Lalit Hospital",
+          "type": "hospital",
+          "latitude": 28.6251,
+          "longitude": 77.2112,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-44440444"
+          }
+        },
+        {
+          "name": "SRL Diagnostics",
+          "type": "hospital",
+          "latitude": 28.6332,
+          "longitude": 77.2057,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-44756600"
+          }
+        },
+        {
+          "name": "Rainbow Children's Hospital",
+          "type": "hospital",
+          "latitude": 28.5281,
+          "longitude": 77.2045,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-46488999"
+          }
+        },
+        {
+          "name": "Ganga Ram Hospital",
+          "type": "hospital",
+          "latitude": 28.6214,
+          "longitude": 77.2075,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-25758000"
+          }
+        },
+        {
+          "name": "Sitaram Bhartia Institute of Science and Research",
+          "type": "hospital",
+          "latitude": 28.6031,
+          "longitude": 77.2262,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-41827800"
+          }
+        },
+        {
+          "name": "Vallabhbhai Patel Chest Institute",
+          "type": "hospital",
+          "latitude": 28.6384,
+          "longitude": 77.2118,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-27667616"
+          }
+        },
+        {
+          "name": "Jag Pravesh Chandra Hospital",
+          "type": "hospital",
+          "latitude": 28.7120,
+          "longitude": 77.2220,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-25917600"
+          }
+        },
+        {
+          "name": "Sant Parmanand Hospital",
+          "type": "hospital",
+          "latitude": 28.6649,
+          "longitude": 77.2186,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-27354707"
+          }
+        },
+        {
+          "name": "Shree Harikishan Hospital",
+          "type": "hospital",
+          "latitude": 28.5223,
+          "longitude": 77.2833,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-41703500"
+          }
+        },
+        {
+          "name": "B.L. Kapoor Memorial Hospital",
+          "type": "hospital",
+          "latitude": 28.6172,
+          "longitude": 77.1976,
+          "contact": {
+            "country_code": "+91",
+            "phone_number": "11-25441156"
+          }
+        }
+      ]
+    }
+    
